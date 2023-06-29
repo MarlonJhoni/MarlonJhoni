@@ -1,13 +1,10 @@
-### Olá! Eu sou o Marlon Jhoni. 👋
+## Olá! Eu sou o Marlon Jhoni. 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 Participante da turma 5 do Programa ONE + Alura, estudando Back End com JAVA
-- 👯 I’m looking to collaborate on ...
+- 🌱 Participante da turma 5 do Programa ONE + Alura, estudando Back End com JAVA.
 - 📫 Contate-me no email: marlon.jhoni@hotmail.com
-- ⚡ Fun fact: Apreciador do excel, tudo dá para criar uma planilha
--->
+- ⚡ Fun fact: Apreciador do excel, tudo dá para criar uma planilha.
 
+<br>
 <div align="center">
   <a href="https://github.com/MarlonJhoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonJhoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marlon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Marlon-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
