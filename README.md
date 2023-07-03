@@ -2,7 +2,6 @@
 
 - 🌱 Participante da turma 5 do Programa ONE + Alura, estudando Back End com JAVA.
 - 📫 Contate-me no email: marlon.jhoni@hotmail.com
-- ⚡ Fun fact: Apreciador do excel, tudo dá para criar uma planilha.
 
 <br>
 <div align="center">
