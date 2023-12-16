@@ -2,7 +2,7 @@
 
 - 🌱 Estreando no mundo da tecnologia.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas PUC-PR
-- 🎓 <s><abbr title="Inicio no mês de abril/2024">Pós-Graduação em Desenvolvimento Full-Stack PUC-PR</abbr></s>
+- 🎓 <s>Pós-Graduação em Desenvolvimento Full-Stack PUC-PR (início em abril/2024</s>
 - 📫 Contate-me no email: marlon.jhoni@hotmail.com
 
 <br>
