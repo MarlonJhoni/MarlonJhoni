@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Marlon Jhoni. 👋
 
-- 🌱 Participante da turma 5 do Programa ONE + Alura, estudando Back End com JAVA.
+- 🌱 Estreando no mundo da tecnologia.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas PUC-PR
+- 🎓 <s><abbr title="Inicio no mês de abril/2024">Pós-Graduação em Desenvolvimento Full-Stack PUC-PR</abbr></s>
 - 📫 Contate-me no email: marlon.jhoni@hotmail.com
 
 <br>
